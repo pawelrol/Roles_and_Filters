@@ -9,7 +9,6 @@ C:\Users\Pawel\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp
 C:\Users\Pawel\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csproj.CoreCompileInputs.cache
 C:\Users\Pawel\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cache
 C:\Users\Pawel\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cs
-C:\Users\Pawel\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 C:\Users\Pawel\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfoInputs.cache
 C:\Users\Pawel\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfo.cs
 C:\Users\Pawel\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.TagHelpers.input.cache

@@ -11,6 +11,7 @@ namespace WebApplication3.Models
         public string Message { get; set; }
         public DateTime DateExecuted { get; set; }
         public string CookieInfo { get; set; }
+        public string UserId { get; set; }
 
 
     }
